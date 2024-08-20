@@ -1,3 +1,3 @@
 # Primer proyecto
-### Construccion de software
+## 1.-Construccion de software
 SCEG
